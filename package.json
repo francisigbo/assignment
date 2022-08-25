@@ -1,0 +1,14 @@
+{
+  "name": "ifeanyijs",
+  "version": "1.0.0",
+  "description": "Learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ifeanyi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
